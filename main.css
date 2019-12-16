@@ -1,0 +1,25 @@
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%
+  }
+
+  header {
+      background-color: lemonchiffon;
+      margin-top: 5%;
+  }
+
+  #navbar {
+    background-color: lemonchiffon;
+  }
+  body {
+      padding-left: 1em;
+  }
+
+  #welcome-section {
+    display: flex;  
+    height: 100%;
+    height: 100vh;
+  }
+
+  
